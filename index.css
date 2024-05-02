@@ -1,0 +1,25 @@
+.orange{
+    color: orangered;
+}
+.red{
+    color: red;
+}
+.cyan{
+    color: cyan;
+}
+html{
+    background-color: peachpuff;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+*{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
